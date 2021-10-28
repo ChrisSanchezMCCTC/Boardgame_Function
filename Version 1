@@ -1,0 +1,3 @@
+def board_games(boardgame):
+    print("Let's play " + boardgame)
+board_games("Monopoly")
